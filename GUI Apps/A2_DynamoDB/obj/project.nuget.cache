@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dG0n1nsCd4E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pierc\\source\\repos\\Main GUIs\\A2_DynamoDB\\A2_DynamoDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pierc\\.nuget\\packages\\awssdk.core\\3.7.400.30\\awssdk.core.3.7.400.30.nupkg.sha512",
+    "C:\\Users\\pierc\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.401.8\\awssdk.dynamodbv2.3.7.401.8.nupkg.sha512",
+    "C:\\Users\\pierc\\.nuget\\packages\\syncfusion.compression.base\\27.1.52\\syncfusion.compression.base.27.1.52.nupkg.sha512",
+    "C:\\Users\\pierc\\.nuget\\packages\\syncfusion.licensing\\27.1.52\\syncfusion.licensing.27.1.52.nupkg.sha512",
+    "C:\\Users\\pierc\\.nuget\\packages\\syncfusion.pdf.wpf\\27.1.52\\syncfusion.pdf.wpf.27.1.52.nupkg.sha512",
+    "C:\\Users\\pierc\\.nuget\\packages\\syncfusion.pdftoimageconverter.wpf\\27.1.52\\syncfusion.pdftoimageconverter.wpf.27.1.52.nupkg.sha512",
+    "C:\\Users\\pierc\\.nuget\\packages\\syncfusion.pdfviewer.wpf\\27.1.52\\syncfusion.pdfviewer.wpf.27.1.52.nupkg.sha512",
+    "C:\\Users\\pierc\\.nuget\\packages\\syncfusion.shared.wpf\\27.1.52\\syncfusion.shared.wpf.27.1.52.nupkg.sha512"
+  ],
+  "logs": []
+}

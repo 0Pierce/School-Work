@@ -1,0 +1,10 @@
+C:\Users\pierc\source\repos\Main GUIs\Lab34T\bin\Debug\Lab34T.exe.config
+C:\Users\pierc\source\repos\Main GUIs\Lab34T\bin\Debug\Lab34T.exe
+C:\Users\pierc\source\repos\Main GUIs\Lab34T\bin\Debug\Lab34T.pdb
+C:\Users\pierc\source\repos\Main GUIs\Lab34T\obj\Debug\Lab34T.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\Main GUIs\Lab34T\obj\Debug\Lab34T.Test1.resources
+C:\Users\pierc\source\repos\Main GUIs\Lab34T\obj\Debug\Lab34T.Properties.Resources.resources
+C:\Users\pierc\source\repos\Main GUIs\Lab34T\obj\Debug\Lab34T.csproj.GenerateResource.cache
+C:\Users\pierc\source\repos\Main GUIs\Lab34T\obj\Debug\Lab34T.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\Main GUIs\Lab34T\obj\Debug\Lab34T.exe
+C:\Users\pierc\source\repos\Main GUIs\Lab34T\obj\Debug\Lab34T.pdb

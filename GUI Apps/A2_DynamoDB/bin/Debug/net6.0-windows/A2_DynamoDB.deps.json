@@ -1,0 +1,164 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A2_DynamoDB/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.401.8",
+          "Syncfusion.PdfViewer.WPF": "27.1.52"
+        },
+        "runtime": {
+          "A2_DynamoDB.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.400.30": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.400.30"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.401.8": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.400.30"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.401.8"
+          }
+        }
+      },
+      "Syncfusion.Compression.Base/27.1.52": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Compression.Base.dll": {
+            "assemblyVersion": "27.1.52.0",
+            "fileVersion": "27.1.52.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/27.1.52": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "27.1.52.0",
+            "fileVersion": "27.1.52.0"
+          }
+        }
+      },
+      "Syncfusion.Pdf.Wpf/27.1.52": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "27.1.52",
+          "Syncfusion.Licensing": "27.1.52"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Pdf.Base.dll": {
+            "assemblyVersion": "27.1.52.0",
+            "fileVersion": "27.1.52.0"
+          }
+        }
+      },
+      "Syncfusion.PdfToImageConverter.WPF/27.1.52": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.PdfToImageConverter.Base.dll": {
+            "assemblyVersion": "27.1.52.0",
+            "fileVersion": "27.1.52.0"
+          }
+        }
+      },
+      "Syncfusion.PdfViewer.WPF/27.1.52": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "27.1.52",
+          "Syncfusion.Licensing": "27.1.52",
+          "Syncfusion.Pdf.Wpf": "27.1.52",
+          "Syncfusion.PdfToImageConverter.WPF": "27.1.52",
+          "Syncfusion.Shared.WPF": "27.1.52"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.PdfViewer.WPF.dll": {
+            "assemblyVersion": "27.1.52.0",
+            "fileVersion": "27.1.52.0"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/27.1.52": {
+        "dependencies": {
+          "Syncfusion.Licensing": "27.1.52"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "27.1.52.0",
+            "fileVersion": "27.1.52.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A2_DynamoDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.400.30": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qjsK12CSTNO7vxBipZpecsTTxsBNIDqQJEQbVAp5nxKUFybl0A1RsijbpVsG5tvfwCpAX4woaUv28zWZlxkwsA==",
+      "path": "awssdk.core/3.7.400.30",
+      "hashPath": "awssdk.core.3.7.400.30.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.401.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-13cR46SRFaqv6resyxXNhcSQA8ZI44xQCYCAr0n/IWp5lwwe7XjXpcNNS2//UFNY6gngn5O4ICXMJE0DRii4ZQ==",
+      "path": "awssdk.dynamodbv2/3.7.401.8",
+      "hashPath": "awssdk.dynamodbv2.3.7.401.8.nupkg.sha512"
+    },
+    "Syncfusion.Compression.Base/27.1.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lYciW3AzZtogQTqakL5FucpVZPjZd/AKLss8MSkCerQ1BWHyn4S4F2njmF9jYkSHUuRvCN2EpXy83NdVkXndtA==",
+      "path": "syncfusion.compression.base/27.1.52",
+      "hashPath": "syncfusion.compression.base.27.1.52.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/27.1.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st24vdjzGwbUs4OvM7EmCfZpyf724Tf3xectuYGGhqMtObr1bNEzCQWUZA2Ftz+xmpat7zNR+2XusQ+qY7q2xQ==",
+      "path": "syncfusion.licensing/27.1.52",
+      "hashPath": "syncfusion.licensing.27.1.52.nupkg.sha512"
+    },
+    "Syncfusion.Pdf.Wpf/27.1.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D8wTsNkZsg6AcCimFS36C7NLHUBrtYl2zB83RHL9g+hbuENiF+/RfduXeMwYqQT27W+4zGpT7HdBxtlK/HWIRQ==",
+      "path": "syncfusion.pdf.wpf/27.1.52",
+      "hashPath": "syncfusion.pdf.wpf.27.1.52.nupkg.sha512"
+    },
+    "Syncfusion.PdfToImageConverter.WPF/27.1.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wsi8KueeDaezEQJtt58mJbydL6+SiwKv+BHtUhWgRxvlFY640ynvPacTLYy5jIbDgwA2hiTZ7LNIQcV3R9Hl8Q==",
+      "path": "syncfusion.pdftoimageconverter.wpf/27.1.52",
+      "hashPath": "syncfusion.pdftoimageconverter.wpf.27.1.52.nupkg.sha512"
+    },
+    "Syncfusion.PdfViewer.WPF/27.1.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lFyXGVc10YdLWSeWTNNpY7LbR4yTOlfcxH/cSgz5vSYnyFYjrxR/2xZTTQDRLkgi+8QGRLoGHIwZZsxYgjUcXw==",
+      "path": "syncfusion.pdfviewer.wpf/27.1.52",
+      "hashPath": "syncfusion.pdfviewer.wpf.27.1.52.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/27.1.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bPl+Gh2yqtM/tGNR+I7ffvOxLmnpdT3haKEonXMxjpvu/HVagFcs4LNom207upI4NLZXkC+QpIKibiU4KRbmAg==",
+      "path": "syncfusion.shared.wpf/27.1.52",
+      "hashPath": "syncfusion.shared.wpf.27.1.52.nupkg.sha512"
+    }
+  }
+}

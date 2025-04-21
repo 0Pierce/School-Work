@@ -1,0 +1,7 @@
+C:\Users\pierc\source\repos\Main GUIs\A1 AWS S3\obj\Debug\net6.0-windows\A1AWSS3.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\Main GUIs\A1 AWS S3\obj\Debug\net6.0-windows\BucketOps.g.cs
+C:\Users\pierc\source\repos\Main GUIs\A1 AWS S3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\pierc\source\repos\Main GUIs\A1 AWS S3\obj\Debug\net6.0-windows\ObjectOps.g.cs
+C:\Users\pierc\source\repos\Main GUIs\A1 AWS S3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\pierc\source\repos\Main GUIs\A1 AWS S3\obj\Debug\net6.0-windows\A1AWSS3_MarkupCompile.cache
+C:\Users\pierc\source\repos\Main GUIs\A1 AWS S3\obj\Debug\net6.0-windows\A1AWSS3_MarkupCompile.lref

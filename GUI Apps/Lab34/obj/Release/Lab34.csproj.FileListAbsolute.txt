@@ -1,0 +1,11 @@
+C:\Users\pierc\source\repos\Main GUIs\Lab34\bin\Release\Lab34.exe.config
+C:\Users\pierc\source\repos\Main GUIs\Lab34\bin\Release\Lab34.exe
+C:\Users\pierc\source\repos\Main GUIs\Lab34\bin\Release\Lab34.pdb
+C:\Users\pierc\source\repos\Main GUIs\Lab34\obj\Release\Lab34.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\Main GUIs\Lab34\obj\Release\Lab34.MenuForm.resources
+C:\Users\pierc\source\repos\Main GUIs\Lab34\obj\Release\Lab34.Properties.Resources.resources
+C:\Users\pierc\source\repos\Main GUIs\Lab34\obj\Release\Lab34.SubForm.resources
+C:\Users\pierc\source\repos\Main GUIs\Lab34\obj\Release\Lab34.csproj.GenerateResource.cache
+C:\Users\pierc\source\repos\Main GUIs\Lab34\obj\Release\Lab34.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\Main GUIs\Lab34\obj\Release\Lab34.exe
+C:\Users\pierc\source\repos\Main GUIs\Lab34\obj\Release\Lab34.pdb

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Lomadze&amp;Pokorny.props" />
+</Project>

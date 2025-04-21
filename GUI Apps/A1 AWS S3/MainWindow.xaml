@@ -1,0 +1,15 @@
+﻿<Window x:Class="A1_AWS_S3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A1_AWS_S3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="195" Width="515">
+    <Grid>
+        <Button x:Name="btnBucket" Content="Bucket Level Operations" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center" Height="50" Width="143" Click="btnBucket_Click"/>
+        <Button x:Name="btnObject" Content="Object Level Operations" HorizontalAlignment="Center" VerticalAlignment="Center" Height="50" Width="143" Click="btnObject_Click"/>
+        <Button Content="Exit" HorizontalAlignment="Left" VerticalAlignment="Center" Height="50" Width="86" Margin="365,0,0,0" Click="Button_Click"/>
+
+    </Grid>
+</Window>
