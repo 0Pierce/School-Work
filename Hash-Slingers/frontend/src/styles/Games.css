@@ -1,0 +1,202 @@
+.gamesBody {
+  text-align: center;
+  min-height: 100vh;
+  width: 100%;
+  background-color: black;
+  background: linear-gradient(45deg, #070070, #300045);
+  position: relative;
+}
+
+.rouletteGame h1 {
+  margin-top: 0px;
+}
+
+.rouletteGame {
+  width: 100%;
+  height: 800px;
+  background-color: #300045a2;
+  position: relative;
+  color: azure;
+}
+
+.rouletteGame form {
+  display: block;
+}
+
+.rouletteGame label {
+  margin-left: 30px;
+  position: relative;
+}
+
+.rouletteGame input {
+  margin-left: 20px;
+  position: relative;
+  background-color: #7700aa;
+  color: azure;
+  border: none;
+}
+
+.rouletteGame input::placeholder {
+  color: azure;
+}
+
+.rouletteGame button {
+  width: 100px;
+  height: 50px;
+  position: relative;
+  margin-left: 20px;
+  background-color: #7700aa;
+  color: azure;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.gameWheel {
+  margin-top: 50px;
+}
+
+.horceRacing {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  color: azure;
+
+  display: flex;
+  background-color: #7700aa;
+}
+
+.horseInput {
+  background-color: #300045;
+  width: 60%;
+  height: 100%;
+}
+
+.horseIContent {
+  margin-top: 20px;
+}
+
+.horse {
+  background-color: rgba(240, 255, 255, 0.229);
+  margin-bottom: 10px;
+  width: 50%;
+}
+
+.horse hr {
+  margin: 0px;
+}
+
+.horceRacing input {
+  margin-right: 20px;
+  width: 100px;
+  background-color: #7700aa;
+  color: azure;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.horseIContent input::placeholder {
+  color: rgb(255, 255, 255);
+}
+
+.horceRacing select {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 100px;
+  background-color: #7700aa;
+  color: azure;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.horseTrack {
+  position: relative;
+  text-align: left;
+  width: 100%;
+  height: 800px;
+}
+
+.horseTrack img {
+  position: relative;
+  width: 200px;
+}
+
+.horseTrack hr {
+  width: 50%;
+  position: absolute;
+  left: 5px;
+}
+
+.horseIContent button {
+  background-color: #7700aa;
+  color: azure;
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.Winner h3 {
+  color: blanchedalmond;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 40px;
+}
+
+.Winner h1 {
+  size: 80px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.WinnerContent {
+  margin-top: 100px;
+}
+
+.coinFlipGame {
+  width: 100%;
+  height: 600px;
+  color: azure;
+  background-color: #300045;
+  position: relative;
+  padding-top: 50px;
+}
+
+.coinFlipGame h1 {
+  margin-bottom: 20px;
+}
+
+.coinFlipGame form {
+  display: block;
+  margin-top: 20px;
+}
+
+.coinFlipGame input,
+.coinFlipGame select {
+  margin: 10px 20px;
+  background-color: #7700aa;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.coinFlipGame button {
+  width: 150px;
+  height: 50px;
+  background-color: #7700aa;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.Footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #4d1864;
+  color: white;
+  position: relative;
+  width: 100%;
+}
