@@ -1,0 +1,164 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    overflow: hidden;
+}
+
+.backGround{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.backGround h2{
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-size: 2rem;
+    margin: 10px;
+    
+}
+
+.formContainer{
+    position: relative;
+    width: 40%;
+    height: 85%;
+    background-color: rgb(219, 255, 255);
+    border-radius: 10px;
+
+    border: solid 1px black;
+    
+}
+
+.formContainer h3{
+    position: relative;
+    width: 95%;
+    height: 20px;
+    background-color:#efefef;
+    top: 0px;
+    border-radius: 3px;
+    text-align: center;
+
+    border: solid 1px black;
+}
+
+.formContainer form{
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.name{
+    position: relative;
+    width: 90%;
+    height: 15%;
+
+    background-color: rgba(245, 245, 220, 0);
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.contact{
+    position: relative;
+
+    width: 90%;
+    height: 20%;
+
+    background-color: rgba(0, 0, 255, 0);
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.address{
+    position: relative;
+
+    width: 90%;
+    height: 30%;
+
+    background-color: rgba(137, 43, 226, 0);
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.details{
+    position: relative;
+
+    width: 90%;
+    height: 30%;
+
+    background-color: rgba(95, 158, 160, 0);
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inputBoxesSec{
+    position: relative;
+    width: 95%;
+    
+    background-color: rgba(128, 255, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputBoxesSec input{
+    position: relative;
+    height: 20px;
+    min-width: 10%;
+    margin: 1%;
+}
+
+.inputBoxesSec select{
+    position: relative;
+    height: 25px;
+    min-width: 10%;
+    margin: 1%;
+}
+
+#inputEmail {
+    width: 80%;
+    
+}
+
+.inputContactNum{
+    position: relative;
+    width: 95%;
+    height: 30%;
+    background-color: rgba(255, 96, 96, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.inputContactNum input{
+    height: 60%;
+    min-width: 10%;
+}
+
+#inputAreaCode{
+    width: 13%;
+}

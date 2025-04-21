@@ -1,0 +1,36 @@
+<!--//Name: Pierce
+//Student Number:301247432
+//Submission date: Oct 14, 2024-->
+
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link rel="stylesheet" href="/css/show-order.css" />
+    <title>Order Confirmation</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+  <div class="background">
+
+    <div class="orderWindow">
+      
+	  <p class="welcomeP">Welcome,&nbsp;<span th:text="${order.firstName} + ' ' + ${order.lastName}+ '!'"></span></p>
+      <p class="orderP">Your order is as follows:</p>
+      <p>Email Address: <span th:text="${order.email}"></span></p>
+      <p>Phone Number: <span th:text="${order.areaCode} + ' ' + ${order.phoneNumber}"></span></p>
+      <p>Address: <span th:text="${order.streetAddress} + ', ' + ${order.city} + ', ' + ${order.state} + ' ' + ${order.postalCode}"></span></p>
+      <hr>
+      <h2>Phone Details</h2>
+      <p>Phone Brand: <span th:text="${order.phoneBrand}"></span></p>
+      <p>Phone Model: <span th:text="${order.phoneModel}"></span></p>
+      <p>Phone Price CAD: $<span th:text="${order.phonePrice}"></span></p>
+      <p>Quantity: <span th:text="${order.quantity}"></span></p>
+      <p class="totalP">Total CAD: $<span th:text="${order.totalPrice}"></span></p>
+    </div>
+
+  </div>
+
+</body>
+</html>

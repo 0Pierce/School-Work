@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+}
+
+.background{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.orderWindow{
+    position: relative;
+    width: 40%;
+    height: 70%;
+
+    background-color: antiquewhite;
+    border-radius: 5px;
+    border: solid 1px black;
+
+    display: flex;
+    flex-direction: column;
+    
+    
+
+}
+
+.orderWindow p{
+    margin-left: 10px;
+    font-size: 1.2rem;
+    
+}
+
+
+.orderWindow h2{
+    margin-left: 10px;
+}
+
+.welcomeP{
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.welcomeP span{
+    color: rgb(0, 255, 21);
+}
+
+.orderWindow p{
+    margin: 10px;
+}
+
+.orderP{
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+
+.totalP {
+    font-weight: bolder; 
+   
+}

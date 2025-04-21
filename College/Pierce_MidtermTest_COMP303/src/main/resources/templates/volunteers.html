@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head><title>Volunteers</title></head>
+<body>
+    <h1>Volunteers List</h1>
+    <p>Total Volunteers: <span th:text="${count}"></span></p>
+    <table>
+        <tr><th>ID</th><th>Name</th><th>Age</th><th>Birthday</th><th>Email</th></tr>
+        <tr th:each="volunteer : ${volunteers}">
+            <td th:text="${volunteer.ID}"></td>
+            <td th:text="${volunteer.name}"></td>
+            <td th:text="${volunteer.age}"></td>
+            <td th:text="${volunteer.dob}"></td>
+            <td th:text="${volunteer.email}"></td>
+        </tr>
+    </table>
+    <a href="/volunteers/add">Add New Volunteer</a>
+</body>
+</html>

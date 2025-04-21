@@ -1,0 +1,46 @@
+
+body {
+   	position:relative;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+	background-color:azure;
+}
+
+h1 {
+	margin:0px;
+    font-size: 36px;
+	color:black;
+   
+}
+
+form {
+    
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+	
+}
+
+.resultsDiv ul{
+	list-style-type: none;
+}
+
+.resultsDiv li{
+	margin-top: 20px;
+	background-color: rgba(128, 128, 128, 0.3);
+	border-radius:20px;
+	padding:10px;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+	
+}
+
+.form button {
+    margin-top: 20px;
+    background-color: red;
+}
+

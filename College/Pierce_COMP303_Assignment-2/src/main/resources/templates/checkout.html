@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Checkout</title>
+</head>
+<body>
+    <h1>Checkout</h1>
+    <p th:text="'You have selected: ' + ${selectedProgram.programName}"></p>
+    <p>Fee: <span th:text="${selectedProgram.fee}"></span></p>
+    
+    <form th:action="@{/enrollment/checkout}" th:object="${enrollment}" method="post">
+        <!-- Hidden field for amountPaid -->
+        <input type="hidden" th:name="amountPaid" th:value="${selectedProgram.fee}"/>
+
+        <label>Credit Card Number:</label>
+        <input type="text" name="creditCardNumber"/><br/>
+
+        <button type="submit">Pay</button>
+    </form>
+</body>
+</html>

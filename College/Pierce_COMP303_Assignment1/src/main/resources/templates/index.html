@@ -1,0 +1,86 @@
+<!--//Name: Pierce
+//Student Number:301247432
+//Submission date: Oct 14, 2024-->
+
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Smart Phones Order Form</title>
+    <link rel="stylesheet" href="/css/index.css" />
+</head>
+<body>
+    <div class="backGround">
+        <h2>Smart Phones Order Form</h2>
+        <div class="formContainer">
+            <form th:action="@{/submit}" method="post">
+
+                <div class="name">
+                    <h3>Full name</h3>
+                    <div class="inputBoxesSec">
+                        <input type="text" name="firstName" placeholder="First name" required>
+                        <input type="text" name="middleName" placeholder="Middle name">
+                        <input type="text" name="lastName" placeholder="Last Name" required>
+                    </div>
+                </div>
+
+                <div class="contact">
+                    <h3>Contact Information</h3>
+                    <div class="inputBoxesSec">
+                        <input type="email" name="email" placeholder="Email" id="inputEmail" required>
+                    </div>
+                    <div class="inputContactNum">
+                        <input type="number" name="areaCode" placeholder="Area code" id="inputAreaCode" required>
+                        <p>---</p>
+                        <input type="number" name="phoneNumber" placeholder="Phone number" required>
+                    </div>
+                </div>
+
+                <div class="address">
+                    <h3>Billing Address</h3>
+                    <div class="inputBoxesSec">
+                        <input type="text" name="streetAddress" placeholder="Street Address" required>
+                        <input type="text" name="streetAddress2" placeholder="Street Address 2">
+                    </div>
+                    <div class="inputBoxesSec">
+                        <input type="text" name="city" placeholder="City" required>
+                        <input type="text" name="state" placeholder="State" required>
+                    </div>
+                    <div class="inputBoxesSec">
+                        <input type="text" name="postalCode" placeholder="Postal / Zip Code" required>
+                        <select name="country" required>
+                            <option value="" disabled selected>Country</option>
+                            <option th:each="country : ${countries}" th:value="${country}" th:text="${country}"></option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="details">
+                    <h3>Product Details</h3>
+                    <div class="inputBoxesSec">
+                        <input type="number" name="productNumber" placeholder="Product #" required>
+                        <select name="phoneBrand" required>
+                            <option value="" disabled selected>Phone Brand</option>
+                            <option th:each="brand : ${phoneBrands}" th:value="${brand}" th:text="${brand}"></option>
+                        </select>
+                    </div>
+                    <div class="inputBoxesSec">
+                        <select name="phoneModel" required>
+                            <option value="" disabled selected>Phone Model</option>
+                            <option th:each="model : ${phoneModels}" th:value="${model}" th:text="${model}"></option>
+                        </select>
+                        <input type="number" name="quantity" placeholder="Quantity" required>
+                    </div>
+                </div>
+
+                <div class="buttons">
+                    <button type="submit">Submit</button>
+                    <button type="reset">Reset</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</body>
+</html>

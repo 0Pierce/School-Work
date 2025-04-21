@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blood Bank Information System</title>
+
+	<link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Blood Bank Information System</h1>
+    </header>
+
+    <section>
+        <h2>Seekers List</h2>
+        <table id="seekersTable">
+            <thead>
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Age</th>
+                    <th>Gender</th>
+                    <th>Blood Group</th>
+                    <th>City</th>
+                    <th>Phone</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+            </tbody>
+        </table>
+        <button class="export-btn" onclick="exportTableToCSV('seekersTable', 'seekers.csv')">Export Seekers as CSV</button>
+    </section>
+
+    <section>
+        <h2>Blood Banks List</h2>
+        <table id="bloodBanksTable">
+            <thead>
+                <tr>
+                    <th>Blood Bank Name</th>
+                    <th>Address</th>
+                    <th>City</th>
+                    <th>Phone</th>
+                    <th>Website</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+               
+            </tbody>
+        </table>
+        <button class="export-btn" onclick="exportTableToCSV('bloodBanksTable', 'blood_banks.csv')">Export Blood Banks as CSV</button>
+    </section>
+
+    <section>
+        <h2>Blood Stocks List</h2>
+        <table id="bloodStocksTable">
+            <thead>
+                <tr>
+                    <th>Blood Group</th>
+                    <th>Quantity</th>
+                    <th>Best Before</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+               
+            </tbody>
+        </table>
+        <button class="export-btn" onclick="exportTableToCSV('bloodStocksTable', 'blood_stocks.csv')">Export Blood Stocks as CSV</button>
+    </section>
+
+    <script>
+        //Populate the table
+        fetch('/seekers')
+            .then(response => response.json())
+            .then(data => {
+				//gets the html element
+                const tableBody = document.querySelector('#seekersTable tbody');
+				
+				//loop to populate the table from the json data
+                data.forEach(seeker => {
+					//makes a new html element
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${seeker.firstName}</td>
+                        <td>${seeker.lastName}</td>
+                        <td>${seeker.age}</td>
+                        <td>${seeker.gender}</td>
+                        <td>${seeker.bloodGroup}</td>
+                        <td>${seeker.city}</td>
+                        <td>${seeker.phone}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+            })
+            .catch(error => console.error('Error seekers:', error));
+
+        //Populate the table
+        fetch('/bloodBank')
+            .then(response => response.json())
+            .then(data => {
+                const tableBody = document.querySelector('#bloodBanksTable tbody');
+                data.forEach(bank => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${bank.bloodbankName}</td>
+                        <td>${bank.address}</td>
+                        <td>${bank.city}</td>
+                        <td>${bank.phone}</td>
+                        <td>${bank.website}</td>
+                        <td>${bank.email}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+            })
+            .catch(error => console.error('Error bloodbanks:', error));
+
+      
+        fetch('/bloodStocks')
+            .then(response => response.json())
+            .then(data => {
+                const tableBody = document.querySelector('#bloodStocksTable tbody');
+                data.forEach(stock => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${stock.bloodGroup}</td>
+                        <td>${stock.quantity}</td>
+                        <td>${stock.bestBefore}</td>
+                        <td>${stock.status}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+            })
+            .catch(error => console.error('Error bloodstocks:', error));
+
+        //Exports csv
+        function exportTableToCSV(tableId, filename) {
+			//Gets the html element by the table id
+            const rows = document.querySelectorAll(`#${tableId} tr`);
+            const csvContent = Array.from(rows)
+                .map(row => Array.from(row.cells).map(cell => `"${cell.textContent}"`).join(','))
+                .join('\n');
+			//^Maps the data for the csv
+            const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.setAttribute('download', filename);
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+    </script>
+</body>
+</html>

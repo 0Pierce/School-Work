@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Add Volunteer</title>
+    <script>
+        function validateForm(event) {
+            
+            const dob = document.getElementById('dob').value;
+            const currentDate = new Date();
+            const birthDate = new Date(dob);
+			
+            const age = document.getElementByID('age').value;
+			
+			//Added extra checks in JS just in case
+			if(age < 6 || age > 10){
+				alert('Age must be between 6 and 10');
+				event.preventDefault();
+			}
+			
+			
+            if (birthDate >= currentDate) {
+                alert('Invalid birthday detected: Date of Birth must be in the past');
+                event.preventDefault(); 
+                return false; 
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Add a New Volunteer</h1>
+    <form th:action="@{/volunteers/add}" th:object="${volunteer}" method="post" onsubmit="validateForm(event)">
+        <label for="name">Name:</label>
+        <input type="text" id="name" th:field="*{name}" required />
+        <label for="age">Age:</label>
+        <input type="number" id="age" th:field="*{age}" min="6" max="10" required />
+        <label for="dob">Date of Birth:</label>
+        <input type="date" id="dob" th:field="*{dob}" required />
+        <label for="email">Email:</label>
+        <input type="email" id="email" th:field="*{email}" required />
+        <button type="submit">Add Volunteer</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Profile</title>
+</head>
+<body>
+    <h1>Your Profile</h1>
+    <p>Username: <span th:text="${student.userName}">Username</span></p>
+    <p>First Name: <span th:text="${student.firstname}">First Name</span></p>
+    <p>Last Name: <span th:text="${student.lastname}">Last Name</span></p>
+    <p>Address: <span th:text="${student.address}">Address</span></p>
+    <p>City: <span th:text="${student.city}">City</span></p>
+    <p>Postal Code: <span th:text="${student.postalCode}">Postal Code</span></p>
+
+    <a th:href="@{/students/logout}">Logout</a>
+</body>
+</html>
