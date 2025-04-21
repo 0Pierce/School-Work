@@ -1,0 +1,13 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\bin\Debug\netcoreapp3.1\ThreeNumAverage.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\bin\Debug\netcoreapp3.1\ThreeNumAverage.deps.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\bin\Debug\netcoreapp3.1\ThreeNumAverage.runtimeconfig.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\bin\Debug\netcoreapp3.1\ThreeNumAverage.runtimeconfig.dev.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\bin\Debug\netcoreapp3.1\ThreeNumAverage.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\bin\Debug\netcoreapp3.1\ThreeNumAverage.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.AssemblyInfoInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.AssemblyInfo.cs
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\obj\Debug\netcoreapp3.1\ThreeNumAverage.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\obj\Debug\netcoreapp3.1\ThreeNumAverage.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.genruntimeconfig.cache

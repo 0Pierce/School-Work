@@ -1,0 +1,7 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Letters\bin\Debug\Letters.exe.config
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Letters\bin\Debug\Letters.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Letters\bin\Debug\Letters.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Letters\obj\Debug\Letters.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Letters\obj\Debug\Letters.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Letters\obj\Debug\Letters.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Letters\obj\Debug\Letters.pdb

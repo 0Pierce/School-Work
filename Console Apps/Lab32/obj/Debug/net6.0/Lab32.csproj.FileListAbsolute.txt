@@ -1,0 +1,15 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\obj\Debug\net6.0\Lab32.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\obj\Debug\net6.0\Lab32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\obj\Debug\net6.0\Lab32.AssemblyInfoInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\obj\Debug\net6.0\Lab32.AssemblyInfo.cs
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\obj\Debug\net6.0\Lab32.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\bin\Debug\net6.0\Lab32.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\bin\Debug\net6.0\Lab32.deps.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\bin\Debug\net6.0\Lab32.runtimeconfig.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\bin\Debug\net6.0\Lab32.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\bin\Debug\net6.0\Lab32.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\obj\Debug\net6.0\Lab32.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\obj\Debug\net6.0\refint\Lab32.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\obj\Debug\net6.0\Lab32.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\obj\Debug\net6.0\Lab32.genruntimeconfig.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab32\obj\Debug\net6.0\ref\Lab32.dll

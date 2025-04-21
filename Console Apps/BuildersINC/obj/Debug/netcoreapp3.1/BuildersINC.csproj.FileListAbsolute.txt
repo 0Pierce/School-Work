@@ -1,0 +1,14 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\bin\Debug\netcoreapp3.1\BuildersINC.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\bin\Debug\netcoreapp3.1\BuildersINC.deps.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\bin\Debug\netcoreapp3.1\BuildersINC.runtimeconfig.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\bin\Debug\netcoreapp3.1\BuildersINC.runtimeconfig.dev.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\bin\Debug\netcoreapp3.1\BuildersINC.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\bin\Debug\netcoreapp3.1\BuildersINC.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\obj\Debug\netcoreapp3.1\BuildersINC.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\obj\Debug\netcoreapp3.1\BuildersINC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\obj\Debug\netcoreapp3.1\BuildersINC.AssemblyInfoInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\obj\Debug\netcoreapp3.1\BuildersINC.AssemblyInfo.cs
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\obj\Debug\netcoreapp3.1\BuildersINC.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\obj\Debug\netcoreapp3.1\BuildersINC.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\obj\Debug\netcoreapp3.1\BuildersINC.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\BuildersINC\obj\Debug\netcoreapp3.1\BuildersINC.genruntimeconfig.cache

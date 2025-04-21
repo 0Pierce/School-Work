@@ -1,0 +1,7 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Testing4\bin\Debug\Testing4.exe.config
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Testing4\bin\Debug\Testing4.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Testing4\bin\Debug\Testing4.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Testing4\obj\Debug\Testing4.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Testing4\obj\Debug\Testing4.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Testing4\obj\Debug\Testing4.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Testing4\obj\Debug\Testing4.pdb

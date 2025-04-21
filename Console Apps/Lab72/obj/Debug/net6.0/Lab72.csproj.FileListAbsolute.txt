@@ -1,0 +1,15 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\bin\Debug\net6.0\Lab72.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\bin\Debug\net6.0\Lab72.deps.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\bin\Debug\net6.0\Lab72.runtimeconfig.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\bin\Debug\net6.0\Lab72.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\bin\Debug\net6.0\Lab72.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\obj\Debug\net6.0\Lab72.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\obj\Debug\net6.0\Lab72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\obj\Debug\net6.0\Lab72.AssemblyInfoInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\obj\Debug\net6.0\Lab72.AssemblyInfo.cs
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\obj\Debug\net6.0\Lab72.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\obj\Debug\net6.0\Lab72.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\obj\Debug\net6.0\refint\Lab72.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\obj\Debug\net6.0\Lab72.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\obj\Debug\net6.0\Lab72.genruntimeconfig.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab72\obj\Debug\net6.0\ref\Lab72.dll

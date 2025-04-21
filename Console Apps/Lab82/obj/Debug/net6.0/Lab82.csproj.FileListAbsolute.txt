@@ -1,0 +1,15 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\obj\Debug\net6.0\Lab82.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\obj\Debug\net6.0\Lab82.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\obj\Debug\net6.0\Lab82.AssemblyInfoInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\obj\Debug\net6.0\Lab82.AssemblyInfo.cs
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\obj\Debug\net6.0\Lab82.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\bin\Debug\net6.0\Lab82.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\bin\Debug\net6.0\Lab82.deps.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\bin\Debug\net6.0\Lab82.runtimeconfig.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\bin\Debug\net6.0\Lab82.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\bin\Debug\net6.0\Lab82.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\obj\Debug\net6.0\Lab82.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\obj\Debug\net6.0\refint\Lab82.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\obj\Debug\net6.0\Lab82.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\obj\Debug\net6.0\Lab82.genruntimeconfig.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab82\obj\Debug\net6.0\ref\Lab82.dll

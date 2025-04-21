@@ -1,0 +1,5 @@
+{"Code":"COMP123","Description":"Advanced C# Programming","Name":"Programming II","Prerequisites":"COMP100","Semester":2}
+{"Code":"COMP100","Description":"Starting on C#","Name":"Programming I","Prerequisites":"","Semester":1}
+{"Code":"COMP229","Description":"All about Web Programming","Name":"Web Application Development","Prerequisites":"COMP123","Semester":3}
+{"Code":"COMP303","Description":"Not sure","Name":"Programming III","Prerequisites":"COMP123","Semester":3}
+{"Code":"COMP404","Description":"Not found","Name":"Programming IV","Prerequisites":"COMP303","Semester":4}

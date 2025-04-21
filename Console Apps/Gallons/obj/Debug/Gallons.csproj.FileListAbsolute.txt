@@ -1,0 +1,7 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Gallons\bin\Debug\Gallons.exe.config
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Gallons\bin\Debug\Gallons.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Gallons\bin\Debug\Gallons.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Gallons\obj\Debug\Gallons.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Gallons\obj\Debug\Gallons.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Gallons\obj\Debug\Gallons.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Gallons\obj\Debug\Gallons.pdb

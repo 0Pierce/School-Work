@@ -1,0 +1,15 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\bin\Debug\net6.0\Course_Simple Teacher.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\bin\Debug\net6.0\Course_Simple Teacher.deps.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\bin\Debug\net6.0\Course_Simple Teacher.runtimeconfig.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\bin\Debug\net6.0\Course_Simple Teacher.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\bin\Debug\net6.0\Course_Simple Teacher.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\obj\Debug\net6.0\Course_Simple Teacher.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\obj\Debug\net6.0\Course_Simple Teacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\obj\Debug\net6.0\Course_Simple Teacher.AssemblyInfoInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\obj\Debug\net6.0\Course_Simple Teacher.AssemblyInfo.cs
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\obj\Debug\net6.0\Course_Simple Teacher.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\obj\Debug\net6.0\Course_Simple Teacher.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\obj\Debug\net6.0\refint\Course_Simple Teacher.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\obj\Debug\net6.0\Course_Simple Teacher.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\obj\Debug\net6.0\Course_Simple Teacher.genruntimeconfig.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Course_Simple Teacher\obj\Debug\net6.0\ref\Course_Simple Teacher.dll

@@ -1,0 +1,14 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\bin\Debug\netcoreapp3.1\WillowPools.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\bin\Debug\netcoreapp3.1\WillowPools.deps.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\bin\Debug\netcoreapp3.1\WillowPools.runtimeconfig.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\bin\Debug\netcoreapp3.1\WillowPools.runtimeconfig.dev.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\bin\Debug\netcoreapp3.1\WillowPools.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\bin\Debug\netcoreapp3.1\WillowPools.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\obj\Debug\netcoreapp3.1\WillowPools.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\obj\Debug\netcoreapp3.1\WillowPools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\obj\Debug\netcoreapp3.1\WillowPools.AssemblyInfoInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\obj\Debug\netcoreapp3.1\WillowPools.AssemblyInfo.cs
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\obj\Debug\netcoreapp3.1\WillowPools.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\obj\Debug\netcoreapp3.1\WillowPools.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\obj\Debug\netcoreapp3.1\WillowPools.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\WillowPools\obj\Debug\netcoreapp3.1\WillowPools.genruntimeconfig.cache

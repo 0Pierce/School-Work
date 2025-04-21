@@ -1,0 +1,14 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\bin\Debug\netcoreapp3.1\GerardThePlumber.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\bin\Debug\netcoreapp3.1\GerardThePlumber.deps.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\bin\Debug\netcoreapp3.1\GerardThePlumber.runtimeconfig.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\bin\Debug\netcoreapp3.1\GerardThePlumber.runtimeconfig.dev.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\bin\Debug\netcoreapp3.1\GerardThePlumber.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\bin\Debug\netcoreapp3.1\GerardThePlumber.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\obj\Debug\netcoreapp3.1\GerardThePlumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\obj\Debug\netcoreapp3.1\GerardThePlumber.AssemblyInfoInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\obj\Debug\netcoreapp3.1\GerardThePlumber.AssemblyInfo.cs
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\obj\Debug\netcoreapp3.1\GerardThePlumber.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\obj\Debug\netcoreapp3.1\GerardThePlumber.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\obj\Debug\netcoreapp3.1\GerardThePlumber.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\obj\Debug\netcoreapp3.1\GerardThePlumber.genruntimeconfig.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\GerardThePlumber\obj\Debug\netcoreapp3.1\GerardThePlumber.csproj.AssemblyReference.cache

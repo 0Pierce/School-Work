@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HeE0Y86Mfpk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pierc\\source\\repos\\C# Primary Rep\\Main\\ClassExample\\ClassExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pierc\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}

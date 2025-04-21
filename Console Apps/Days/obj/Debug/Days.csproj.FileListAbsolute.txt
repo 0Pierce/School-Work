@@ -1,0 +1,6 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Days\bin\Debug\Days.exe.config
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Days\bin\Debug\Days.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Days\bin\Debug\Days.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Days\obj\Debug\Days.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Days\obj\Debug\Days.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Days\obj\Debug\Days.pdb

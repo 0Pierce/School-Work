@@ -1,0 +1,7 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab2\bin\Debug\Lab2.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab2\bin\Debug\Lab2.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab2\obj\Debug\Lab2.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Lab2\obj\Debug\Lab2.pdb

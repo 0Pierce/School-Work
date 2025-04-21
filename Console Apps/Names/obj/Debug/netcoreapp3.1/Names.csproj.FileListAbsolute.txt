@@ -1,0 +1,13 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\bin\Debug\netcoreapp3.1\Names.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\bin\Debug\netcoreapp3.1\Names.deps.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\bin\Debug\netcoreapp3.1\Names.runtimeconfig.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\bin\Debug\netcoreapp3.1\Names.runtimeconfig.dev.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\bin\Debug\netcoreapp3.1\Names.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\bin\Debug\netcoreapp3.1\Names.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\obj\Debug\netcoreapp3.1\Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\obj\Debug\netcoreapp3.1\Names.AssemblyInfoInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\obj\Debug\netcoreapp3.1\Names.AssemblyInfo.cs
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\obj\Debug\netcoreapp3.1\Names.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\obj\Debug\netcoreapp3.1\Names.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\obj\Debug\netcoreapp3.1\Names.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\Names\obj\Debug\netcoreapp3.1\Names.genruntimeconfig.cache

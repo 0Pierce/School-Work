@@ -1,0 +1,14 @@
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\bin\Debug\netcoreapp3.1\CandyCalc.exe
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\bin\Debug\netcoreapp3.1\CandyCalc.deps.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\bin\Debug\netcoreapp3.1\CandyCalc.runtimeconfig.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\bin\Debug\netcoreapp3.1\CandyCalc.runtimeconfig.dev.json
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\bin\Debug\netcoreapp3.1\CandyCalc.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\bin\Debug\netcoreapp3.1\CandyCalc.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\obj\Debug\netcoreapp3.1\CandyCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\obj\Debug\netcoreapp3.1\CandyCalc.AssemblyInfoInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\obj\Debug\netcoreapp3.1\CandyCalc.AssemblyInfo.cs
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\obj\Debug\netcoreapp3.1\CandyCalc.csproj.CoreCompileInputs.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\obj\Debug\netcoreapp3.1\CandyCalc.dll
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\obj\Debug\netcoreapp3.1\CandyCalc.pdb
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\obj\Debug\netcoreapp3.1\CandyCalc.genruntimeconfig.cache
+C:\Users\pierc\source\repos\C# Primary Rep\Main\CandyCalc\obj\Debug\netcoreapp3.1\CandyCalc.csproj.AssemblyReference.cache
